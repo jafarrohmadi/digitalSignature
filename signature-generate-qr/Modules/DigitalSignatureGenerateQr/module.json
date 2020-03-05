@@ -1,0 +1,13 @@
+{
+    "name": "DigitalSignatureGenerateQr",
+    "alias": "digitalsignaturegenerateqr",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DigitalSignatureGenerateQr\\Providers\\DigitalSignatureGenerateQrServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

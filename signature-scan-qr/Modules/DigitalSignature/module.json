@@ -1,0 +1,13 @@
+{
+    "name": "DigitalSignature",
+    "alias": "digitalsignature",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DigitalSignature\\Providers\\DigitalSignatureServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
